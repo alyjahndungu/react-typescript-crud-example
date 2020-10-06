@@ -8,7 +8,6 @@ interface User {
   email: string;
 
 }
-
 interface UserListProps{
 
 }
